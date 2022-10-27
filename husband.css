@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 14px;
+   
+    margin-left: 400px;
+}
+h2{
+    margin-top: 70px;
+}
+p{
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.bouton button{
+    margin-top: 20px;
+}
+.bouton .pr{
+    padding: 5px 13px;
+    border: none;
+    background-color: white;
+    font-size: 12px;
+}
+.bouton .dx{
+    padding: 10px;
+    border: 2px solid black;
+}
+ .image img{
+    width: 250px;
+    height: 300px;
+    float: right;
+   margin-bottom: 150px;
+    border: 1px solid white;
+    background-color: dimgrey;
+    margin-left: 40px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  
+}
+.description{
+    margin-bottom: 350px;
+  
+}
+.para1{
+    background-color:whitesmoke;
+    height: 430px;
+   
+}  
+
+/*deuxieme partie*/
+.para2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  
+   
+}
+
+.btn{
+    color: white;
+    margin: 14px;
+    padding: 15px ;
+    background-color: black;
+    border: 1px solid  white;
+  
+}
+
+  
+
+  
+/*troisiem*/
+ .containers{
+    display: flex;
+    margin-top: 30px;
+   
+ } 
+   .gauch{
+    margin-left: 200px;
+   }
+   .droite{
+    margin-left: 200px;
+   }
+
+.butn{
+  padding: 18px 30px;
+   margin-top: 20px;
+  background-color: white;
+  margin-left: 22px;
+}
+
+.lorem{
+    font-size: 12px;
+    margin-left: 22px;
+}
+
+h3{
+    margin-left: 22px; 
+}
+/*quartieme*/
+
+.image2{
+    height:350px;
+     width : 350px ;
+     background-image: url("personnage\ 2.png");
+     background-position: center;
+    background-size: cover;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+ article{
+   
+   background-color: rgb(227, 223, 223);
+  
+  display: flex;
+ } 
+  .cont{
+    color:aliceblue;
+    margin-top: 190px;
+    font-size: 20px;
+  
+    
+  }
+
+  .cont a{
+    color: beige;
+    text-decoration: none;
+  }
+  /*cinquieme*/
+   footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   }
+
+   .sit h5{
+    display: inline-block;
+    margin: 8px;
+    margin-top: 60px;
+   }
+   .sit a{
+     font-size: 16px;
+     color: black;
+     text-transform: capitalize;
+   }
+
+   .park{
+    border: none;
+    padding: 8px 18px;
+    margin-right: 8px;
+    margin-top: 30px;
+    background-color: rgb(245, 238, 238);
+   }
+
+   .send{
+       padding: 12px 10px;
+       border: 2px solid;
+   }
+
+  .w p{
+    margin-top: 16px;
+   }
+ 
